@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ayush242004/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Ayush242004/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ayush242004/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ayush242004/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ayush242004/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Ayush242004/Leetcode/tree/master/0486-predict-the-winner) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayush242004/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush242004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ayush242004/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ayush242004/Leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Ayush242004/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ayush242004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ayush242004/Leetcode/tree/master/0242-valid-anagram) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush242004/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Ayush242004/Leetcode/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ayush242004/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ayush242004/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ayush242004/Leetcode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Ayush242004/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Ayush242004/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Combinatorics
