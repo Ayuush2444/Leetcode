@@ -3,7 +3,6 @@ class Solution:
         while True:
             x = n
             product = 1
-
             while x > 0:
                 product *= x % 10
                 x //= 10
