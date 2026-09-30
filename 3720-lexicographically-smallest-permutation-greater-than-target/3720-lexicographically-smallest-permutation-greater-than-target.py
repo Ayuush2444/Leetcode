@@ -3,10 +3,8 @@ class Solution:
         cnt = [0] * 26
         for c in s:
             cnt[ord(c) - ord("a")] += 1
-
         n = len(target)
         res = []
-
         for i in range(n):
             t = ord(target[i]) - ord("a")
 
