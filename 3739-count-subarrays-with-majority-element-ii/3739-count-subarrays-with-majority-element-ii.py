@@ -7,7 +7,6 @@ class BIT:
         while idx <= self.n:
             self.bit[idx] += val
             idx += idx & -idx
-
     def query(self, idx):
         s = 0
         while idx > 0:
