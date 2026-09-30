@@ -1,10 +1,10 @@
-<h2><a href="https://leetcode.com/problems/count-the-number-of-complete-components">2793. Count the Number of Complete Components</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code>. There is an <strong>undirected</strong> graph with <code>n</code> vertices, numbered from <code>0</code> to <code>n - 1</code>. You are given a 2D integer array <code>edges</code> where <code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> denotes that there exists an <strong>undirected</strong> edge connecting vertices <code>a<sub>i</sub></code> and <code>b<sub>i</sub></code>.</p>
+<h2><a href="https://leetcode.com/problems/count-the-number-of-complete-components">2793. Count the Number of Complete Components</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code>. There is an <strong>undirected</strong> graph with <code>n</code> vertices, numbered from <code>0</code> to <code>n - 1</code>. You are given a 2D integer array <code>edges</code> where <code>edges[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> denotes that there exists an <strong>undirected</strong> edge connecting vertices <code>a<sub>i</sub></code> and<code>b<sub>i</sub></code>.</p>
 
-<p>Return <em>the number of <strong>complete connected components</strong> of the graph</em>.</p>
+<p>Return <em>the number of <strong>complete connected components</strong> of the graph</em>. </p>
 
 <p>A <strong>connected component</strong> is a subgraph of a graph in which there exists a path between any two vertices, and no vertex of the subgraph shares an edge with a vertex outside of the subgraph.</p>
 
-<p>A connected component is said to be <b>complete</b> if there exists an edge between every pair of its vertices.</p>
+<p>A connected component is said to be <b>complete</b> if there exists an edge between every pair of its vertices</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
