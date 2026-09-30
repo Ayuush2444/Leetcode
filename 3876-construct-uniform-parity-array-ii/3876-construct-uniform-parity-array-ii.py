@@ -2,7 +2,18 @@ class Solution:
     def uniformArray(self, nums1: list[int]) -> bool:
         min_odd = float('inf')
         min_even = float('inf')
-        # 
+        ans = []
+        depth = 0
+
+        for ch in seq:
+            if ch == '(':
+                ans.append(depth % 2)
+                depth += 1
+            else:
+                depth -= 1
+                ans.append(depth % 2)
+
+        return ans
 
         possible_odd = True
 
