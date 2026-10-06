@@ -1,6 +1,5 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        st=[]
         c1=0
         c2=0
         for ch in s:
