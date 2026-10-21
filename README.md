@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush242004/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush242004/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ayush242004/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ayuush2444/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
